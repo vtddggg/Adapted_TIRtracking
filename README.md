@@ -30,21 +30,21 @@ If you want to run the code with GPU, make sure that you have installed CUDA and
 
 HCF without finetuning:
 
-<figure class="third">
-    <img src="./image/q26.png">
-    <img src="./image/q46.png">
-    <img src="./image/q1.png">
-</figure>
+<div style="float:left;border:solid 1px 000;margin:2px;">
+    <img src="./image/q26.png" width = "285" height = "250" />
+    <img src="./image/q46.png" width = "285" height = "250" />
+    <img src="./image/q1.png" width = "285" height = "250" />
+</div>
 
 ![](./image/1.png)
 
 HCF after finetuning:
 
-<figure class="third">
-    <img src="./image/t26.png">
-    <img src="./image/t46.png">
-    <img src="./image/t1.png">
-</figure>
+<div style="float:left;border:solid 1px 000;margin:2px;">
+    <img src="./image/t26.png" width = "285" height = "250" />
+    <img src="./image/t46.png" width = "285" height = "250" />
+    <img src="./image/t1.png" width = "285" height = "250" />
+</div>
 
 ![](./image/2.png)
 
