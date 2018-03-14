@@ -1,5 +1,4 @@
 
-% Coding by Xiaofeng Mao (hzmaoxiaofeng@163.com or mmmaoxiaofeng@gmail.com) 
 % This TIR-tracking finetuning demo is based on Hierarchical Convolutional Features for Visual Tracking
 % Citation:
 % @inproceedings{Ma-ICCV-2015,
